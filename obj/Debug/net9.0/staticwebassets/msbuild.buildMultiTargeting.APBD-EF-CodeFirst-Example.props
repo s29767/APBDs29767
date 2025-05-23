@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APBD-EF-CodeFirst-Example.props" />
+</Project>

@@ -1,0 +1,9 @@
+﻿namespace APBD_EF_CodeFirst_Example.DTOs;
+
+public class MedicamentDetailsDto
+{
+    public int IdMedicament { get; set; }
+    public string Name { get; set; } = null!;
+    public int? Dose { get; set; }
+    public string Description { get; set; } = null!;
+}
